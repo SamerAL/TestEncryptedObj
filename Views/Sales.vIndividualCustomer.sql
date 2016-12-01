@@ -5,6 +5,7 @@ GO
 CREATE VIEW [Sales].[vIndividualCustomer] 
 AS 
 
+
 SELECT 
     p.[BusinessEntityID]
     ,p.[Title]
